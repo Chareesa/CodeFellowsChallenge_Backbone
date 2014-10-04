@@ -1,0 +1,19 @@
+{
+  "name": "CodeFellowsChallenge_Backbone",
+  "version": "1.0.0",
+  "description": "This is my backbone challenge",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chareesa/CodeFellowsChallenge_Backbone.git"
+  },
+  "author": "Chareesa Graham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chareesa/CodeFellowsChallenge_Backbone/issues"
+  },
+  "homepage": "https://github.com/Chareesa/CodeFellowsChallenge_Backbone"
+}
